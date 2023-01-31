@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ovaisazmi/ovaisazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <p style="display: inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ovaisazmi&show_icons=true&locale=en&layout=compact" alt="ovaisazmi" /></p>
 
-<p style="display: inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ovaisazmi&show_icons=true&locale=en" alt="ovaisazmi" /></p>
+<p style="display: inline-block;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ovaisazmi&show_icons=true&locale=en" alt="ovaisazmi" /></p>
 
-<p style="display: inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovaisazmi&" alt="ovaisazmi" /></p>
+<p style="display: inline-block;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ovaisazmi&" alt="ovaisazmi" /></p>
