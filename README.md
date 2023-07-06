@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammad Ovais</h1>
 <h3 align="center">A passionate Full Stack Web Developer from New Delhi,India</h3>
 <!-- a -->
-<!-- <img src="http://surl.li/flbbn" align="center" style="width: 110% ; height:500px " />  -->
+<img src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966" align="center" style="width: 110% ; height:500px " /> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovaisazmi&label=Profile%20views&color=0e75b6&style=flat" alt="ovaisazmi" /> </p>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ovaisazmi" alt="ovaisazmi" /></a> </p>
