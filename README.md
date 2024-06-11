@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **my Skills**
 
 - 📫 How to reach me **ovaisazmi53@gmail.com**
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/12MfzB4FPrYj5dz1MPQmbplCIZN6zjBP9/view?usp=sharing](https://drive.google.com/file/d/12MfzB4FPrYj5dz1MPQmbplCIZN6zjBP9/view?usp=sharing) -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12MfzB4FPrYj5dz1MPQmbplCIZN6zjBP9/view?usp=sharing](https://drive.google.com/file/d/12MfzB4FPrYj5dz1MPQmbplCIZN6zjBP9/view?usp=sharing)
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1vGdWKFdEIuSgfKqoJPamS7KSQi42Ih41/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
